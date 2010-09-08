@@ -1,6 +1,7 @@
 ---
 abstract: 'Make easy things easy with Imager'
 author:
+  - 'Bernhard Graf C<< <graf at cpan.org> >>'
   - 'Bernhard Graf <graf@cpan.org>'
 build_requires:
   ExtUtils::MakeMaker: 6.42
@@ -8,7 +9,7 @@ build_requires:
 configure_requires:
   ExtUtils::MakeMaker: 6.42
 distribution_type: module
-generated_by: 'Module::Install version 0.91'
+generated_by: 'Module::Install version 1.00'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -26,4 +27,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/augensalat/Imager-Simple/tree/master
-version: 0.010001
+version: 0.010002
